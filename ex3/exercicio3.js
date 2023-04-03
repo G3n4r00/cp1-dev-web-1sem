@@ -1,5 +1,3 @@
-/*Escreva  um  programa  que  calcula  o  índice  de  massa  corporal  (IMC)  de  uma  pessoa  e  exibe  uma mensagem indicando se ela está abaixo, no peso ideal ou acima do peso. Considere as seguintes faixas de IMC:  abaixo  de  18,5  (abaixo  do  peso),  entre 18,5  e  24,9  (peso  ideal)  e  acima  de  24,9  (acima  do  peso).Exemplifique e demonstre a saída!(10 Pontos)*/
-
 const altura = parseFloat(prompt("Digite sua altura em metros: "))
 const peso = parseInt(prompt("Digite seu peso em kg; "))
 
@@ -16,4 +14,3 @@ else if(resultado < 24.9 && resultado > 18.5){
 else if(resultado > 24.9){
     alert("Você está acima do peso")
 }
-
