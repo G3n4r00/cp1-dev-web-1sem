@@ -6,6 +6,6 @@ Div1.addEventListener("mouseover", () => {
 });
 
 Div1.addEventListener("mouseout", () => {
-  Div1.innerHTML = "Passe o mouse aqui para ver a mágica acontecer!"; // Volta o texto original da div
+  Div1.innerHTML = "Passe o mouse aqui!"; // Volta o texto original da div
   Div1.style.backgroundColor = "white"; // Volta a cor de fundo original da div
 });
