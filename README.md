@@ -24,4 +24,4 @@ Turma 1ESPF
 > `Prof.Alexandre C de Jesus`
 
 
-## Nota = `80`.
+## Nota = `80`. 
